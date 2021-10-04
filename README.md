@@ -1,2 +1,2 @@
 # COMPILER_CONSTRUCTION
-COMPILER_CONSTRUCTION HW
+Compiler Construction HW simple compiler
